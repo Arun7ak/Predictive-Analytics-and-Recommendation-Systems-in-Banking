@@ -51,9 +51,6 @@ Evaluation Metrics:
 1.Precision
 2.Recall
 
-Evaluation Metrics
-Loan Default Prediction:
-
 Streamlit Application:
 A Streamlit web app is created to interact with the models. The app allows users to:
 
